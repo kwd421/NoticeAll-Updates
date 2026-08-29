@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NoticeAll</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 29 Aug 2026 23:54:55 +0900</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# NoticeAll 0.1.1 GitHub Update Smoke
+
+- Verifies the public GitHub Sparkle feed and release-download path.
+- This prerelease archive is an integration fixture, not a customer release.
+]]></description>
+            <enclosure url="https://github.com/kwd421/NoticeAll-Updates/releases/download/v0.1.1-test/NoticeAll-0.1.1.zip" length="2407000" type="application/octet-stream" sparkle:edSignature="fXlKA+M0FYa1ZuCdskDPTHe65uRQxldVcW3Ru3biQl2AdLnLPE8ELd/gA1Q64hwL+K5812MuR3B3FCL78rOXCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: rRHLm5WckS7BnX79BElxLUenpV1GVI/27yBpqSfi633yfpbrUQvJvUvy2I7GT9SHl7SKv8a5tPXPuZ2ew7vdBA==
+length: 1320
+-->
